@@ -1,0 +1,16 @@
+{
+  "name": "qrcodegenerator",
+  "version": "1.0.0",
+  "description": "this is a project all  about how the user's input(url) is converted into qr-code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "qr-code"
+  ],
+  "author": "sathiskumar s",
+  "license": "MIT"
+}
